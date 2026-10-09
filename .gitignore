@@ -1,0 +1,7 @@
+# Originales pesados de la carta (la web usa las versiones .jpg)
+assets/carta/*-original.png
+
+# Archivos del sistema y privados
+.DS_Store
+.env
+*.key
